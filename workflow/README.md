@@ -13,8 +13,8 @@ You need to have the following tools installed on your computer before you insta
 To run:
 
 ```shell
-git clone https://github.com/Alpha1202/labforward-FE.git
-cd labforward-FE
+git clone https://github.com/Alpha1202/workflow-FE.git
+cd workflow-FE/workflow
 yarn i - to install all the required dependencies
 yarn run dev to start the local server
 ```
@@ -28,7 +28,7 @@ branch. Please follow the guide of the Pull Request Template provided.
 
 ## Links
 
-- Repository: https://github.com/Alpha1202/labforward-FE
+- Repository: https://github.com/Alpha1202/workflow-FE
 
 ### .env sample:
 
