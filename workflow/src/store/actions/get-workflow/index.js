@@ -31,7 +31,6 @@ export const getWorkflowRequest = () => {
       };
 
       const data = await API(callObj);
-      console.log(data, 'data on line 34')
       if (data.status) {
         dispatch(getWorkflowSucess(data.data, data.message));
         return data.data;
